@@ -5,7 +5,7 @@ This is an updated version of the code originally published by Malfante, Mars & 
 The updates were implemented in the classification of seismo-volcanic signals but can be extended to other applications.
 
 The original paper for which the updated code was developped is:
-**Bernal-Manzanilla, K., Calò, M., Martínez-Jaramillo, D., Valade, S. (2024, in revision). Automated Seismo-Volcanic Event Detection Applied to Popocatépetl using Machine Learning. Journal of Volcanology and Geothermal Research. Pre-print available at SSRN: https://ssrn.com/abstract=4972730 or http://dx.doi.org/10.2139/ssrn.4972730
+**Bernal-Manzanilla, K., Calò, M., Martínez-Jaramillo, D., Valade, S. (2024, in revision). Automated Seismo-Volcanic Event Detection Applied to Popocatépetl using Machine Learning. Journal of Volcanology and Geothermal Research. Pre-print available at SSRN: https://ssrn.com/abstract=4972730 or http://dx.doi.org/10.2139/ssrn.4972730**
 
 The updates include:
 - Use of Principal Component Analysis (PCA) to reduce the dimensions of the feature space.
