@@ -1,6 +1,6 @@
 # Updated AAA
 
-This is an updated version of the code originally published by Malfante, Mars & Della Mura (2018) (available at [Zenodo: AAA](https://zenodo.org/records/1216028))
+This is an updated version of the code originally published by Malfante, Mars & Della Mura (2018) (available at [GitHub](https://github.com/malfante/AAA) and [Zenodo](https://zenodo.org/records/1216028))
 
 The updates were implemented in the classification of seismo-volcanic signals but can be extended to other applications.
 
