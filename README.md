@@ -33,9 +33,13 @@ Here are the main updates featured in the UAAA workflow:
 <br>
 A detailed description of each update can be found in the following subsections.
 
+## Principal Component Analysis (PCA)
+We implemented PCA to reduce the dimensionality of the feature space originally proposed in the AAA workflow (102 dimensions). Below is an excerpt from our paper (Bernal-Manzanilla et al., 2024, in revision) justifying the use of PCA:
+"Dimensionality reduction is important because high-dimensional feature spaces can include features that offer minimal or no value to the model. Additionally, redundancy among features can emerge, hampering the model's generalization capabilities and leading to longer computation times (Bishop, 2006)."
+
 
 ## Enhanced visualization
 
-We leverage the [SWARM](https://volcanoes.usgs.gov/software/swarm/index.shtml) software for visualizing results. SWARM is a free software developped by the USGS, used for displaying and analyzing seismic waveforms and it provides an interactive platform to explore and analyze UAAA results.
+We leverage the [SWARM](https://volcanoes.usgs.gov/software/swarm/index.shtml) software for visualizing results. SWARM is a free software developped by the USGS, used for displaying and analyzing seismic waveforms. Given its ease-of-use and versatility, it provides an interactive platform to explore and analyze UAAA results.
 
-
+SWARM uses tags in the hellicorder to highlight special types of seismic events (e.g. VT earthquakes, LP events, tremors, rock falls, etc...).
