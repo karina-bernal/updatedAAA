@@ -15,6 +15,7 @@ Here's a list of the main updates featured in the UAAA workflow:
 - Inclusion of performance metrics per class during cross-validation and testing of the classification model.  
 - Introduction of a dynamic window size for analyzing continuous recordings.  
 - Enhanced visualization tools for exploratory data analysis and result interpretation.
+<br>
 A detailed description of each updated can be found in the following subsections. 
 
 ## Installation  
