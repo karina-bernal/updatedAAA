@@ -37,7 +37,10 @@ A detailed description of each update can be found in the following subsections.
 We implemented PCA to reduce the dimensionality of the feature space originally proposed in the AAA workflow (102 dimensions). Below is an excerpt from our paper (Bernal-Manzanilla et al., 2024, in revision) justifying the use of PCA:
 <br>
 *"Dimensionality reduction is important because high-dimensional feature spaces can include features that offer minimal or no value to the model. Additionally, redundancy among features can emerge, hampering the model's generalization capabilities and leading to longer computation times (Bishop, 2006)."*
-
+<br>
+Implementing PCA required modifications in the following scripts:
+- `analyzer.py`: Lines 201-209 & 446-451
+- `recording.py`: 
 
 
 
