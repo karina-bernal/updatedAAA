@@ -1,6 +1,6 @@
 # Updated AAA 
 
-This is an updated version of the **Automatic Analysis Architecture (AAA)** tool originally published by Malfante, Mars & Della Mura (2018) (available at [GitHub](https://github.com/malfante/AAA) and [Zenodo](https://zenodo.org/records/1216028)). We recommend checking their documentation for a complete overview of the AAA tool.
+This repository includes updates for the **Automatic Analysis Architecture (AAA)** tool originally published by Malfante, Mars & Della Mura (2018) (available at [GitHub](https://github.com/malfante/AAA) and [Zenodo](https://zenodo.org/records/1216028)). We recommend checking their documentation for a complete overview of the AAA tool.
 
 The Updated AAA (UAAA) is a versatile tool designed for building and implementing machine learning classification models to analyze continuous time series data. While initially developed for the automatic classification of seismo-volcanic signals at Popocatépetl Volcano in Mexico, it can be adapted for analyzing other types of continuous signals in various scientific and industrial applications. This enhanced version introduces improvements and new features designed to optimize analysis workflows and extend functionality.
 
@@ -36,4 +36,6 @@ A detailed description of each update can be found in the following subsections.
 
 ## Enhanced visualization
 
-We leverage the SWARM software for results' visualization. SWARM is a free software available at the USGS's [Volcano Hazard Program](https://volcanoes.usgs.gov/software/swarm/index.shtml)) for the visualization and analysis of continuous seismic data.
+We leverage the [SWARM](https://volcanoes.usgs.gov/software/swarm/index.shtml) software for visualizing results. SWARM is a free software developped by the USGS, used for displaying and analyzing seismic waveforms and it provides an interactive platform to explore and analyze UAAA results.
+
+
