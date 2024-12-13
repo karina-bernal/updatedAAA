@@ -1,8 +1,8 @@
 # Updated AAA 
 
-This is an updated version of the **Automatic Analysis Architecture (AAA)** tool originally published by Malfante, Mars & Della Mura (2018) (available at [GitHub](https://github.com/malfante/AAA) and [Zenodo](https://zenodo.org/records/1216028)). This enhanced version introduces improvements and new features designed to optimize analysis workflows and extend functionality. We recommend checking their documentation for a complete overview of the AAA tool.
+This is an updated version of the **Automatic Analysis Architecture (AAA)** tool originally published by Malfante, Mars & Della Mura (2018) (available at [GitHub](https://github.com/malfante/AAA) and [Zenodo](https://zenodo.org/records/1216028)). We recommend checking their documentation for a complete overview of the AAA tool.
 
-The Updated AAA (UAAA) is a versatile tool designed for building and implementing machine learning classification models to analyze continuous time series data. While initially developed for the automatic classification of seismo-volcanic signals at Popocatépetl Volcano in Mexico, it can be adapted for analyzing other types of continuous signals in various scientific and industrial applications.  
+The Updated AAA (UAAA) is a versatile tool designed for building and implementing machine learning classification models to analyze continuous time series data. While initially developed for the automatic classification of seismo-volcanic signals at Popocatépetl Volcano in Mexico, it can be adapted for analyzing other types of continuous signals in various scientific and industrial applications. This enhanced version introduces improvements and new features designed to optimize analysis workflows and extend functionality.
 
 
 The original peer-reviewed paper for which the UAAA workflow was developped is:
