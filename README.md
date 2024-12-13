@@ -38,6 +38,7 @@ We implemented PCA to reduce the dimensionality of the feature space originally 
 <br>
 *"Dimensionality reduction is important because high-dimensional feature spaces can include features that offer minimal or no value to the model. Additionally, redundancy among features can emerge, hampering the model's generalization capabilities and leading to longer computation times (Bishop, 2006)."*
 <br>
+<br>
 Implementing PCA required modifications in the following scripts:
 - `analyzer.py`: Lines 201-209 & 446-451
 - `recording.py`: 
