@@ -10,10 +10,12 @@ The original peer-reviewed paper for which the UAAA workflow was developped is:
 **Bernal-Manzanilla, K., Calò, M., Martínez-Jaramillo, D., Valade, S. (2024, in revision). Automated Seismo-Volcanic Event Detection Applied to Popocatépetl using Machine Learning. Journal of Volcanology and Geothermal Research. Pre-print available at SSRN: https://ssrn.com/abstract=4972730 or http://dx.doi.org/10.2139/ssrn.4972730**
 
 ## Featured Updates:  
+Here's a list of the main updates featured in the UAAA workflow:
 - Implementation of Principal Component Analysis (PCA) to reduce the dimensionality of the feature space.  
 - Inclusion of performance metrics per class during cross-validation and testing of the classification model.  
 - Introduction of a dynamic window size for analyzing continuous recordings.  
-- Enhanced visualization tools for exploratory data analysis and result interpretation.  
+- Enhanced visualization tools for exploratory data analysis and result interpretation.
+A detailed description of each updated can be found in the following subsections. 
 
 ## Installation  
 
